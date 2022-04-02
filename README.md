@@ -27,13 +27,16 @@ When I'm not writing code or trying to figure out a solution to a software probl
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Reference-Finding-Software&theme=dark&icon_color=50858B"/>
 </a>
 
+<a href="https://github.com/TWEEDOriginal/game-space-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Reference-Finding-Software&theme=dark&icon_color=50858B"/>
+</a>
 
 <a href="https://github.com/TWEEDOriginal/LeapCure-Project">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=LeapCure-Project&theme=dark&icon_color=50858B"/>
 </a>
 
 
-<a href="https://github.com/TWEEDOriginal/New-django-pizza-website">
+<a href="https://github.com/TWEEDOriginal/todo-serverless-service">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=New-django-pizza-website&theme=dark&icon_color=50858B"/>
 </a>
 
@@ -42,12 +45,12 @@ When I'm not writing code or trying to figure out a solution to a software probl
 </a>
 
 
-<a href="https://github.com/TWEEDOriginal/Glitch-Internship-Frontend">
+<a href="https://github.com/TWEEDOriginal/step-functions-intro">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Glitch-Internship-Frontend&theme=dark&icon_color=50858B"/>
 </a>
 
 
-<a href="https://github.com/TWEEDOriginal/Tip-Calculator">
+<a href="https://github.com/TWEEDOriginal/api_proxy_server">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Tip-Calculator&theme=dark&icon_color=50858B"/>
 </a>
 
