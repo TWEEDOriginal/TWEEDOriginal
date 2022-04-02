@@ -27,8 +27,8 @@ When I'm not writing code or trying to figure out a solution to a software probl
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Reference-Finding-Software&theme=dark&icon_color=50858B"/>
 </a>
 
-<a href="https://github.com/TWEEDOriginal/game-space-ap">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=game-space-ap&theme=dark&icon_color=50858B"/>
+<a href="https://github.com/TWEEDOriginal/game-space-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=game-space-api&theme=dark&icon_color=50858B"/>
 </a>
 
 <a href="https://github.com/TWEEDOriginal/LeapCure-Project">
