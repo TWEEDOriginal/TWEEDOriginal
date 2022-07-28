@@ -1,8 +1,10 @@
 ### Hi there 👋, I am Tawheed Oguntade
 
-I am a full-stack software developer,I mainly use TypeScript and python. 
-I use react (sometimes vue) library for the frontend and flask, django or serverless technologies for the backend to build restful APIs. 
-When I'm not writing code or trying to figure out a solution to a software problem, I like to watch movies, play video games and hangout with my family and friends.
+I am a Full Stack software developer, I mainly use TypeScript and python. I have worked as a freelance frontend developer and I currently work at Yellow Card as a backend developer. I am passionate about learning, experimenting and working with new systems. My goal as a software developer is to write better code and further improve my programming skills by continuously challenging myself and working on more meaningful projects. 
+
+Over the last two years, I've worked on numerous projects covering a range of stacks which I have great interest in such as creating responsive user interfaces, creating restful APIs using server and serverless technologies and writing smart contracts to the ethereum blockchain.
+
+When I'm not writing code or trying to figure out a solution to a software problem, I like to watch movies, play video games, watch and play basketball and hangout with my family and friends. 
 
 <details>
  <summary><strong>My details</strong></summary>
