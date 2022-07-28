@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Tawheed Oguntade
 
 I am a full-stack software developer,I mainly use TypeScript and python. 
-I use react (sometimes vue) library for the frontend and flask or django for the backend to build restful APIs. 
+I use react (sometimes vue) library for the frontend and flask, django or serverless technologies for the backend to build restful APIs. 
 When I'm not writing code or trying to figure out a solution to a software problem, I like to watch movies, play video games and hangout with my family and friends.
 
 <details>
