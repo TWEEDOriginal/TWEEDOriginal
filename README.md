@@ -2,14 +2,13 @@
 
 I am a Full Stack software developer, I mainly use TypeScript and python. I have worked as a freelance frontend developer and I currently work at Yellow Card as a backend developer. I am passionate about learning, experimenting and working with new systems. My goal as a software developer is to write neat, high performing, well structured and reusable solutions. 
 
-Over the last two years, I've worked on numerous projects covering a range of stacks which I have great interest in such as creating responsive user interfaces, creating restful APIs using server and serverless technologies and writing smart contracts to the ethereum blockchain.
+Over the last 4 years, I've worked on numerous projects covering a range of stacks which I have great interest in such as creating responsive user interfaces, creating restful APIs using server and serverless technologies.
 
 When I'm not writing code or trying to figure out a solution to a software problem, I like to watch movies, play video games, watch and play basketball and hangout with my family and friends. 
 
 <details>
  <summary><strong>My details</strong></summary>
  <ul>
-  <li> 🔭 I’m currently seeking a job opportunity.</li>
   <li>👯 I’m looking to collaborate on open source Python or TypeScript based projects </li>
   <li> 💬 Ask me anything! </li>
   <li> 📫 How to reach me: Message me on <a href="https://www.linkedin.com/in/tawheed-oguntade/">LinkedIn</a> </li>
@@ -20,45 +19,6 @@ When I'm not writing code or trying to figure out a solution to a software probl
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TWEEDOriginal&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Projects
-
-
-<a href="https://github.com/TWEEDOriginal/Reference-Finding-Software">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Reference-Finding-Software&theme=dark&icon_color=50858B"/>
-</a>
-
-<a href="https://github.com/TWEEDOriginal/game-space-api">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=game-space-api&theme=dark&icon_color=50858B"/>
-</a>
-
-<a href="https://github.com/TWEEDOriginal/Algorithms-and-DataStructures">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Algorithms-and-DataStructures&theme=dark&icon_color=50858B"/>
-</a>
-
-<a href="https://github.com/TWEEDOriginal/LeapCure-Project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=LeapCure-Project&theme=dark&icon_color=50858B"/>
-</a>
-
-
-<a href="https://github.com/TWEEDOriginal/todo-serverless-service">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=todo-serverless-service&theme=dark&icon_color=50858B"/>
-</a>
-
-
-<a href="https://github.com/TWEEDOriginal/step-functions-intro">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=step-functions-intro&theme=dark&icon_color=50858B"/>
-</a>
-
-
-<a href="https://github.com/TWEEDOriginal/api_proxy_server">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=api_proxy_server&theme=dark&icon_color=50858B"/>
-</a>
-
-
-<a href="https://github.com/TWEEDOriginal/Image-To-Number">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TWEEDOriginal&repo=Image-To-Number&theme=dark&icon_color=50858B"/>
-</a>
 
 ## Skills
 
